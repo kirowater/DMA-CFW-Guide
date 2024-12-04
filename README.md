@@ -220,6 +220,8 @@ If the size unit is different change the size unit to accommodate the unit of th
 
 
 ## **5. Other Config Space Changes**
+> [!TIP]
+> Please have a look at [shadow_cfg_space.md](https://github.com/Silverr12/DMA-CFW-Guide/blob/main/Shadow_cfg_space.md), It is a much easier way of doing what is described below
 
   1. In Vivado, navigate to `pcie_7x_0_core_top` as shown in the image, and use the magnifying glass in the top left of the text editor to search for these different lines to match them to your donor card
 
